@@ -8,7 +8,7 @@
 - 3.Navier-Stokes equations I (Lagrangian approach)
 - 4.Navier-Stokes equations II (Eulerian approach)
 - 5.enery equation (diffusion and advection)
-- 6.dimensional analysis
+- 6.dimensional analysis (nondimensioanlization)
 
 ## 1.mass conservation
 
