@@ -1,4 +1,4 @@
-# 나비에-스토크스 방정식 공부
+# Navier-Stokes 방정식 공부
 - 교재: Garvin 2023, A Student's Guide to the Navier-Stokes Equations
 - 교재를 읽고 질문(?)과 핵심(!)을 쉬운 문장으로 기술 (되도록 수식은 자제)
 
